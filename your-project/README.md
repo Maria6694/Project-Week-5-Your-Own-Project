@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Frozen II: Failure or Success
+*[Maria Platas]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis Bootcamp, 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -33,6 +33,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/Maria6694/Project-Week-5-Your-Own-Project)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
