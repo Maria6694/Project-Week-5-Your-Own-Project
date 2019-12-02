@@ -53,5 +53,6 @@ In Database you will find a folder called Clean, where data after 1.Data_Cleanin
 ## Links
 Links:
 [Repository](https://github.com/Maria6694/Project-Week-5-Your-Own-Project)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/b/2nDiVtYq/project4)  
+[Slides](https://docs.google.com/presentation/d/1DLxvFhyubq9uprhujlX2y3AxNpMh30SiIpI3WOj-Rvw/edit#slide=id.g6b2834fcb8_0_170)  
+[Trello](https://trello.com/b/2nDiVtYq/project4) 
+[Paper](https://medium.com/@mariapf94/frozen-ii-success-or-failure-dc43934c7804)
